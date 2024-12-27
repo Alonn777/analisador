@@ -1,0 +1,29 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font: 15px;
+        background-color: rgb(8, 12, 255);
+
+}
+header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-style: italic;
+}
+
+section {
+    display: flexbox;
+    background-color: rgb(243, 247, 250);
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.445);
+    text-transform: lowercase; }
+
+    footer {
+        display: flex;
+        justify-content: center;
+        color: white;
+        font-style: italic;
+    }
